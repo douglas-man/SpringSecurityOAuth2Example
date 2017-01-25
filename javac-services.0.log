@@ -1,0 +1,20 @@
+INFO	?	main	2017-01-24T14:20:24.859Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2017-01-24T14:20:25.104Z	org.javacs.JavaLanguageServer#doLint	Lint [/home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/OAuth2SecurityConfiguration.java]
+INFO	?	main	2017-01-24T14:20:25.123Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /tmp/classpath8901703468448239580.txt
+INFO	?	main	2017-01-24T14:20:29.750Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-01-24T14:20:29.756Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2017-01-24T14:20:30.184Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/controller/HelloWorldRestController.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.225Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/service/UserServiceImpl.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.235Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/service/UserService.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.240Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.242Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.243Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/configuration/CORSFilter.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.248Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/MethodSecurityConfig.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.253Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/OAuth2SecurityConfiguration.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.257Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/ResourceServerConfiguration.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.261Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/AuthorizationServerConfiguration.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.263Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/security/SecurityWebApplicationInitializer.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.269Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/model/AuthTokenInfo.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.271Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/main/java/com/websystique/springmvc/model/User.java
+INFO	?	InitialIndex	2017-01-24T14:20:30.276Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Downloads/SpringSecurityOAuth2Example/src/test/java/com/websystique/springmvc/SpringRestClient.java
+INFO	?	main	2017-01-24T14:23:30.941Z	org.javacs.Main#run	Connection closed
